@@ -27,7 +27,7 @@ To write a program to perform linear search and binary search using python progr
 Developed By: sivaramakrishnan B
 Regsiter Number: 212222110044
 ```
-# 1)	#Use a linear search method to match the item in a list.21
+# 1) Use a linear search method to match the item in a list.21
 ```
 Program for linear search method to match the item in a list
 
@@ -51,7 +51,7 @@ if result==-1:
 else:
     print("Element found at index: ",result)
 ```
-# 2)Find the element in a list using Binary Search(Iterative Method).
+# 2) Find the element in a list using Binary Search(Iterative Method).
 ```
 Program to find the element in a list using Binary Search(Iterative Method).
 
@@ -76,7 +76,7 @@ else:
     print(array)
     print("Element found at index: ",result)
 ```
-iii)	# Find the element in a list using Binary Search (recursive Method).
+# 3) Find the element in a list using Binary Search (recursive Method).
 ```
 Program to find the element in a list using Binary Search (recursive Method).
 
