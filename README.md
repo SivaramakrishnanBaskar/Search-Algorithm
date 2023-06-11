@@ -104,6 +104,9 @@ else:
    
 ```
 ## Sample Input and Output
+
+![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/14dff4f5-8d79-4992-a7c5-8d722979a839)
+
 ![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/f278cef4-03a7-43dd-a73f-fd4025ac131c)
 
 ## Result
