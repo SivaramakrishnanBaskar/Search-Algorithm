@@ -103,23 +103,16 @@ else:
     print("Element found at index: ",result)
    
 ```
-## Sample Input and Output
-
-### Input
+## Output
 
 ### 1) ![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/cd8b63a2-f438-47a1-a7fd-9f8a63dc3852)
+![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/8584ee74-1e4b-4309-9930-bb3447b81ca0)
 
 ### 2) ![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/c39102f1-a75c-4d9f-8bd7-b2e737e83b63)
+![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/2b151fdc-025c-4172-bb21-14c2e5476d08)
 
 ### 3) ![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/cfedcb1b-718a-4b36-9798-6ec642ef989d)
-
-### Output
-### 1) ![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/8584ee74-1e4b-4309-9930-bb3447b81ca0)
-
-### 2) ![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/2b151fdc-025c-4172-bb21-14c2e5476d08)
-
-### 3) ![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/c58565ae-42a9-436b-a7c1-2587b6eaf3d2)
-
+![image](https://github.com/SivaramakrishnanBaskar/Search-Algorithm/assets/119476322/c58565ae-42a9-436b-a7c1-2587b6eaf3d2)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
